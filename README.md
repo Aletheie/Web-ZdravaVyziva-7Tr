@@ -1,4 +1,7 @@
-# [Zdravý web](https://webytom-anna.github.io/Web-ZdravaVyziva-7Tr/index.html)
+# [Zdravý web](https://annajungmannova.github.io/Web-ZdravaVyziva-7Tr/)
+
+[![Stáhnout](https://img.shields.io/badge/Release-download-brightgreen.svg)](https://github.com/AnnaJungmannova/Web-ZdravaVyziva-7Tr/archive/1.0.1.zip)
+[![Web](https://img.shields.io/website?url=https%3A%2F%2Fannajungmannova.github.io%2FWeb-ZdravaVyziva-7Tr%2F)](https://annajungmannova.github.io/Web-ZdravaVyziva-7Tr/)
 
 Reklamní stránka na zdravou výživu. 
 
